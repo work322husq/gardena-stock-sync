@@ -1,0 +1,39 @@
+name: Update Stock XML
+
+# Когда запускать?
+on:
+  schedule:
+    - cron: '0 * * * *' # Запуск в начале каждого часа (24 раза в сутки)
+  workflow_dispatch:      # Позволяет запустить скрипт кнопкой вручную для теста
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # GitHub выделит виртуальный компьютер на Linux
+    
+    steps:
+      # 1. Копируем файлы из твоего репозитория на виртуальную машину
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 2. Устанавливаем Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # 3. Устанавливаем библиотеку requests (нужна для скачивания файла поставщика)
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. Запускаем твой скрипт
+      - name: Run update script
+        run: python update_xml.py
+
+      # 5. Сохраняем измененный файл обратно в твой репозиторий
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'Stock Bot'
+          git config --global user.email 'bot@github.com'
+          git add gardena_stock.xml
+          git commit -m "Auto-update stock: $(date)" || exit 0
+          git push
