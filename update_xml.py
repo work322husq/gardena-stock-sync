@@ -2,7 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 
 # Конфигурация
-SUPPLIER_URL = "ССЫЛКА_НА_XML_ПОСТАВЩИКА"
+SUPPLIER_URL = "https://b2b.altsest.ua/cabinet/product-feed"
 MASTER_SKUS_FILE = "master_skus.txt"
 OUTPUT_FILE = "gardena_stock.xml"
 
