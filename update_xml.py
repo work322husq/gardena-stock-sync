@@ -38,8 +38,12 @@ def update_stocks():
         current_stock = supplier_stock.get(sku, "0")
         ET.SubElement(offer, "stock_quantity").text = current_stock
 
-    # 5. Сохраняем файл
+    # 5. Сохраняем файл с отступами (Pretty Print)
     tree = ET.ElementTree(new_root)
+    
+    # Добавляем эту строчку перед сохранением:
+    ET.indent(tree, space="  ", level=0) 
+    
     tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
     print(f"Файл {OUTPUT_FILE} успешно обновлен.")
 
