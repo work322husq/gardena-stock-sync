@@ -30,14 +30,17 @@ def update_stocks():
     offers = ET.SubElement(shop, "offers")
 
     for sku in master_skus:
-        offer = ET.SubElement(offers, "offer", id=sku.replace(".", "")) # ID без точек для валидности
+        # создаем оффер
+        offer = ET.SubElement(offers, "offer", id=sku.replace(".", "")) 
         ET.SubElement(offer, "article").text = sku
         ET.SubElement(offer, "vendor").text = "Gardena"
         
-        # Если артикул есть у поставщика — берем его остаток, иначе — 0
+        # добавляем заглушку цены 1, как ты и хотел
+        ET.SubElement(offer, "sale").text = "1"
+        
+        # проверяем наличие
         current_stock = supplier_stock.get(sku, "0")
         ET.SubElement(offer, "stock_quantity").text = current_stock
-
     # 5. Сохраняем файл с отступами (Pretty Print)
     tree = ET.ElementTree(new_root)
     
