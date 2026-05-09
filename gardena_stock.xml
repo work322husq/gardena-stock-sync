@@ -216,7 +216,7 @@
         <article>08959-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>24</stock_quantity>
       </offer>
       <offer id="18612-2000000">
         <article>18612-20.000.00</article>
@@ -1044,7 +1044,7 @@
         <article>03113-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>68</stock_quantity>
       </offer>
       <offer id="08141-2000000">
         <article>08141-20.000.00</article>
@@ -1578,7 +1578,7 @@
         <article>08951-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>54</stock_quantity>
+        <stock_quantity>61</stock_quantity>
       </offer>
       <offer id="18216-2900000">
         <article>18216-29.000.00</article>
@@ -1998,7 +1998,7 @@
         <article>08731-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>68</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="08737-2000000">
         <article>08737-20.000.00</article>
@@ -2226,7 +2226,7 @@
         <article>03100-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>13</stock_quantity>
       </offer>
       <offer id="03103-2000000">
         <article>03103-20.000.00</article>
@@ -2250,7 +2250,7 @@
         <article>03381-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>92</stock_quantity>
+        <stock_quantity>96</stock_quantity>
       </offer>
       <offer id="03391-2000000">
         <article>03391-20.000.00</article>
@@ -2316,13 +2316,13 @@
         <article>03487-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>70</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="03412-2000000">
         <article>03412-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>33</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="03260-2000000">
         <article>03260-20.000.00</article>
