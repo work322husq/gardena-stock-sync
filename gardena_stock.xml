@@ -210,7 +210,7 @@
         <article>03642-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>25</stock_quantity>
       </offer>
       <offer id="08959-2000000">
         <article>08959-20.000.00</article>
@@ -246,7 +246,7 @@
         <article>03120-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="18900-2000000">
         <article>18900-20.000.00</article>
@@ -360,7 +360,7 @@
         <article>03622-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="08719-4800000">
         <article>08719-48.000.00</article>
@@ -450,7 +450,7 @@
         <article>12215-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="04647-2000000">
         <article>04647-20.000.00</article>
@@ -858,7 +858,7 @@
         <article>08923-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="12203-2000000">
         <article>12203-20.000.00</article>
@@ -888,7 +888,7 @@
         <article>03115-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>31</stock_quantity>
+        <stock_quantity>29</stock_quantity>
       </offer>
       <offer id="12006-2000000">
         <article>12006-20.000.00</article>
@@ -972,7 +972,7 @@
         <article>03565-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="02933-2900000">
         <article>02933-29.000.00</article>
@@ -1026,13 +1026,13 @@
         <article>11110-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>13</stock_quantity>
+        <stock_quantity>12</stock_quantity>
       </offer>
       <offer id="11112-2000000">
         <article>11112-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="18313-2000000">
         <article>18313-20.000.00</article>
@@ -1074,7 +1074,7 @@
         <article>03745-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="18520-2000000">
         <article>18520-20.000.00</article>
@@ -1308,7 +1308,7 @@
         <article>18714-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="09874-2000000">
         <article>09874-20.000.00</article>
@@ -1572,19 +1572,19 @@
         <article>00432-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>27</stock_quantity>
       </offer>
       <offer id="08951-2000000">
         <article>08951-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>24</stock_quantity>
+        <stock_quantity>23</stock_quantity>
       </offer>
       <offer id="18216-2900000">
         <article>18216-29.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>86</stock_quantity>
+        <stock_quantity>81</stock_quantity>
       </offer>
       <offer id="00436-2000000">
         <article>00436-20.000.00</article>
@@ -1782,7 +1782,7 @@
         <article>08712-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>13</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="17002-2000000">
         <article>17002-20.000.00</article>
@@ -1854,7 +1854,7 @@
         <article>08964-30.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>23</stock_quantity>
+        <stock_quantity>22</stock_quantity>
       </offer>
       <offer id="13300-2000000">
         <article>13300-20.000.00</article>
@@ -1866,7 +1866,7 @@
         <article>02943-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="02977-2000000">
         <article>02977-20.000.00</article>
@@ -1920,13 +1920,13 @@
         <article>18025-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="18033-2000000">
         <article>18033-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="18039-2000000">
         <article>18039-20.000.00</article>
@@ -1938,7 +1938,7 @@
         <article>18055-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="18069-2000000">
         <article>18069-20.000.00</article>
@@ -2070,7 +2070,7 @@
         <article>08966-30.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="18303-2000000">
         <article>18303-20.000.00</article>
@@ -2094,7 +2094,7 @@
         <article>08906-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="03099-2000000">
         <article>03099-20.000.00</article>
@@ -2106,7 +2106,7 @@
         <article>08965-30.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>22</stock_quantity>
+        <stock_quantity>21</stock_quantity>
       </offer>
       <offer id="08970-2000000">
         <article>08970-20.000.00</article>
@@ -2124,7 +2124,7 @@
         <article>18291-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>32</stock_quantity>
+        <stock_quantity>31</stock_quantity>
       </offer>
       <offer id="18296-2000000">
         <article>18296-20.000.00</article>
@@ -2208,7 +2208,7 @@
         <article>03179-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>23</stock_quantity>
+        <stock_quantity>22</stock_quantity>
       </offer>
       <offer id="03178-2000000">
         <article>03178-20.000.00</article>
@@ -2238,7 +2238,7 @@
         <article>03107-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="03392-2000000">
         <article>03392-20.000.00</article>
@@ -2262,7 +2262,7 @@
         <article>03166-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>25</stock_quantity>
       </offer>
       <offer id="03135-2000000">
         <article>03135-20.000.00</article>
@@ -2328,7 +2328,7 @@
         <article>03260-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="01757-2000000">
         <article>01757-20.000.00</article>
@@ -2376,7 +2376,7 @@
         <article>02760-37.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>71</stock_quantity>
+        <stock_quantity>68</stock_quantity>
       </offer>
       <offer id="02761-2000000">
         <article>02761-20.000.00</article>
@@ -2394,7 +2394,7 @@
         <article>01197-29.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="03243-2000000">
         <article>03243-20.000.00</article>
@@ -2706,7 +2706,7 @@
         <article>09332-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>18</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="03240-2000000">
         <article>03240-20.000.00</article>
@@ -2772,7 +2772,7 @@
         <article>08950-20.000.00</article>
         <vendor>Gardena</vendor>
         <sale>1</sale>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>19</stock_quantity>
       </offer>
     </offers>
   </shop>
